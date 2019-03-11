@@ -12,8 +12,8 @@
 3. [System Requirements](#systemrequirements)  
   3.1 [Functional Requirements](#functionalrequirements)  
   3.2 [Non-Functional Requirements](#nonfunctional)  
-      3.2.1 [Software quality attributes](#attributes)  
-      3.2.2 [Restrictions](#restrictions)  
+     3.2.1 [Software quality attributes](#attributes)  
+     3.2.2 [Restrictions](#restrictions)  
 
 ## 1 Introduction <a name="introduction"></a>
 ### 1.1 Purpose <a name="purpose"></a>
