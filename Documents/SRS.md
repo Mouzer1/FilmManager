@@ -31,16 +31,16 @@ Almost everyone like to watch films. We have a lot of web services to find and w
 ### 2.2 User Interfaces <a name="userinterface"></a>
 The main window</br>
 Show top of your favorite, recently viewed and castom lists.</br>
-![The main windows](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Main.png) </br>
+![The main windows](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Main.png)</br>
 Favorite</br>
 Show list with favorite films.</br>
-![Favorite](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Favorite.png) 
+![Favorite](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Favorite.png)</br>
 Recently viewed</br>
 Show list with recently viewed films.</br>
-![Recently viewed](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Recently%20viewed.png) 
+![Recently viewed](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Recently%20viewed.png)</br> 
 All movies</br>
 Show list with all your movies.</br>
-![All movies](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/All%20movies.png) 
+![All movies](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/All%20movies.png)</br>
 ### 2.3 User Characteristics <a name="usercharacheteristics"></a>
 The target audience is people who like films and want comfortable application to manipulate catalog of their favorite films. 
 Minimum required skills - skill to use Windiws 10.
