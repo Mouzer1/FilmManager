@@ -3,7 +3,7 @@
 ## Content
 1. [Introduction](#introduction)  
   1.1 [Purpose](#purpose)  
-      1.2.1 [Initial data](#initialdata) 
+      1.2.1 [Initial data](#initialdata)
       1.2.2 [Business requirements](#business)  
 2. [Users Requirements](#usersrequirements)  
   2.1 [Software Interfaces](#softwareinterfaces)  
@@ -31,7 +31,7 @@ Almost everyone like to watch films. We have a lot of web services to find and w
 ### 2.2 User Interfaces <a name="userinterface"></a>
 The main window</br>
 Show top of your favorite, recently viewed and castom lists.</br>
-![The main windows](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Main.png) 
+![The main windows](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Main.png) </br>
 Favorite</br>
 Show list with favorite films.</br>
 ![Favorite](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/Favorite.png) 
