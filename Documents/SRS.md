@@ -43,7 +43,7 @@ Show list with all your movies.</br>
 ![All movies](https://github.com/Mouzer1/FilmManager/blob/master/Mockups/All%20movies.png)</br>
 ### 2.3 User Characteristics <a name="usercharacheteristics"></a>
 The target audience is people who like films and want comfortable application to manipulate catalog of their favorite films. 
-Minimum required skills - skill to use Windiws 10.
+Minimum required skills - skill to use Windiws.
 ## 3 System Requirements <a name="systemrequirements"></a>
 To use this application you need simple personal computer with Windows.
 ### 3.1 Functional Requirements <a name="functionalrequirements"></a>
