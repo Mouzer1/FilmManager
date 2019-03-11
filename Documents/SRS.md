@@ -3,7 +3,7 @@
 ## Content
 1. [Introduction](#introduction)  
   1.1 [Purpose](#purpose)  
-  1.2 [Initial data](#initialdata)
+  1.2 [Initial data](#initialdata)</br>
   1.3 [Business requirements](#business)  
 2. [Users Requirements](#usersrequirements)  
   2.1 [Software Interfaces](#softwareinterfaces)  
