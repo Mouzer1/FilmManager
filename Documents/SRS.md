@@ -3,8 +3,8 @@
 ## Content
 1. [Introduction](#introduction)  
   1.1 [Purpose](#purpose)  
-     1.2.1 [Initial data](#initialdata)
-     1.2.2 [Business requirements](#business)  
+     1.2 [Initial data](#initialdata)
+     1.3 [Business requirements](#business)  
 2. [Users Requirements](#usersrequirements)  
   2.1 [Software Interfaces](#softwareinterfaces)  
   2.2 [User Interface](#userinterface)  
@@ -18,10 +18,10 @@
 ## 1 Introduction <a name="introduction"></a>
 ### 1.1 Purpose <a name="purpose"></a>
 This document describes the functional and non-functional  Initial data for the Dekstop application "Film Manager".
-### 1.2.1 Initial data <a name="initialdata"></a>
+### 1.2 Initial data <a name="initialdata"></a>
 Nowaday films have become an important part of our life. A lot of people need some instruments to manipulate their collection
 of films. "Film Manager" will help people with this task.
-### 1.2.2 Business requirements <a name="business"></a>
+### 1.3 Business requirements <a name="business"></a>
 Almost everyone like to watch films. We have a lot of web services to find and watch online or download films. But when we use desktop we need to create simple folders and put video files to them. It's not comfortable. This application provide capability to create play-lists with your favorite, recently viewed movies, or just custom play-list.
 ## 2 User Requirements <a name="usersrequirements"></a>
 ### 2.1 Software Interfaces <a name="softwareinterfaces"></a>
