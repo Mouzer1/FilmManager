@@ -1,3 +1,3 @@
 # Deployment diagram
 
-![Deployment diagram](https://github.com/ussnik209/FilmManager/blob/master/Diagrams/Deployment/Deployment%20Diagram.png)
+![Deployment diagram](https://github.com/Mouzer1/FilmManager/blob/master/Diagramms/Deployment/Deployment%20Diagram.png)
