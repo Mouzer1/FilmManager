@@ -1,3 +1,3 @@
 # Class diagram
 
-![Class diagram](https://github.com/ussnik209/FilmManager/blob/master/Diagrams/Class/FilmManager.PNG)
+![Class diagram](https://github.com/Mouzer1/FilmManager/blob/master/Diagramms/Class/FilmManager.PNG)
