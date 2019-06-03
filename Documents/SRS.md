@@ -17,10 +17,10 @@
 
 ## 1 Introduction <a name="introduction"></a>
 ### 1.1 Purpose <a name="purpose"></a>
-This document describes the functional and non-functional  Initial data for the Dekstop application "Film Manager".
+This document describes the functional and non-functional  Initial data for the Dekstop application "MoviesOwner".
 ### 1.2 Initial data <a name="initialdata"></a>
 Nowaday films have become an important part of our life. A lot of people need some instruments to manipulate their collection
-of films. "Film Manager" will help people with this task.
+of films. "MoviesOwner" will help people with this task.
 ### 1.3 Business requirements <a name="business"></a>
 Almost everyone like to watch films. We have a lot of web services to find and watch online or download films. But when we use desktop we need to create simple folders and put video files to them. It's not comfortable. This application provide capability to create play-lists with your favorite, recently viewed movies, or just custom play-list.
 ## 2 User Requirements <a name="usersrequirements"></a>
